@@ -1,5 +1,3 @@
-package Lab.lab3;
-
 import java.util.*;
 
 public class PlaneApp {

@@ -1,5 +1,3 @@
-package Lab.lab3;
-
 public class PlaneSeat {
     // Attributes
     private int seatId;

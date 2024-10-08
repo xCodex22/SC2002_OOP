@@ -1,5 +1,3 @@
-package Lab.lab3;
-
 public class Plane {
     // Attributes
     private PlaneSeat[] seats = new PlaneSeat[12];
